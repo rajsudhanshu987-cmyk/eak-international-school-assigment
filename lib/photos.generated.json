@@ -1,0 +1,16 @@
+{
+  "art": "/images/art.jpg",
+  "assembly": "/images/assembly.jpg",
+  "auditorium": "/images/auditorium.jpg",
+  "bus": "/images/bus.jpg",
+  "campus": "/images/campus.jpg",
+  "canteen": "/images/canteen.jpg",
+  "classroom": "/images/classroom.jpg",
+  "computer": "/images/computer.jpg",
+  "field": "/images/field.jpg",
+  "hostel": "/images/hostel.jpg",
+  "lab": "/images/lab.jpg",
+  "library": "/images/library.jpg",
+  "medical": "/images/medical.jpg",
+  "principal": "/images/principal.jpg"
+}
