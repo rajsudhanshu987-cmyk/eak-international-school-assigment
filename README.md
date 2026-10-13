@@ -42,5 +42,10 @@ Unknown URLs show a branded 404 page (`app/not-found.tsx`).
 
 All names, numbers, fees and dates are dummy data in `lib/data.ts`. Forms do not send anything.
 
-## Photo credits
-List each photo here, for example: `classroom.jpg` by Name on Unsplash.
+## Live Demo
+
+[View EAK International School](https://eak-international-school-assigment-fl1bhal2u.vercel.app/)
+
+## Repository
+
+[GitHub Repository](https://github.com/rajsudhanshu987-cmyk/eak-international-school-assigment)
